@@ -48,4 +48,14 @@ p{
 }
 a{
     text-decoration: none;
+    transition: transform .2s;
+}
+a:hover{
+color: #61DAFB;
+}
+.content a:link{
+    color: #015301;
+}
+.content a:visited{
+    color: #20232A;
 }
